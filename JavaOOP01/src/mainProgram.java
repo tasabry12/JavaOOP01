@@ -10,7 +10,7 @@ public class mainProgram {
 		
 		p2= new Punto(3);
 		
-		System.out.println("Il punto si trova nel quadrante numero " + p2.LocalizzaQuadrante());
+		System.out.println("Il punto si trova nel quadrante numero " + p1.LocalizzaQuadrante());
 		
 		//p1.x = 123;   NO sono variabii private
 		//p1.y = -67;
